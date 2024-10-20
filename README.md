@@ -17,7 +17,7 @@ Gitpfview was a fun project designed to boost your GitHub README.md profile or r
 - Ora
 
 ### Steps
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/gitpfview.git
    cd Gitpfview

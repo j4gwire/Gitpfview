@@ -19,7 +19,7 @@ Gitpfview was a fun project designed to boost your GitHub README.md profile or r
 ### Steps
 Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gitpfview.git
+   git clone https://github.com/ScribeAegis/gitpfview.git
    cd Gitpfview
    ```
 ## Install dependencies:

@@ -1,7 +1,6 @@
 # Gitpfview
 
-Gitpfview was a fun project designed to boost your GitHub README.md profile or repo view counters by simulating multiple visits to a specified GitHub URL. Perfect for users looking to increase visibility.
-
+Gitpfview was a fun project designed to boost your GitHub README.md profile or repo view counters by simulating multiple visits to a specified GitHub URL.
 ## Features
 - **User Input**: Prompts for a GitHub URL and the number of visits.
 - **Random User-Agent Rotation**: Uses a set of User-Agent strings to simulate different browser visits.
